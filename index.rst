@@ -5,4 +5,3 @@ My tools
    :maxdepth: 2
    : caption: Contents:
    
-   about
